@@ -25,14 +25,14 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Customized buttons
-- [X] Disaplyed another API call
+- [X] Displayed another API call
   -  Chosen Endpoint: `discover/tv`
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/2amvw5v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/2amvw5v.gif' title='Video Walkthrough' width='100px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif 
